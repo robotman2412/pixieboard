@@ -1,2 +1,6 @@
 *-backups
 *.kical_prl
+.~*
+~*
+\#auto_saved_files#
+_autosave*
