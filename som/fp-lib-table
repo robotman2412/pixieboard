@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/xc7a200t/eec.pretty")(options "")(descr ""))
   (lib (name "eec.models")(type "KiCad")(uri "${KIPRJMOD}/xc7a200t/eec.models")(options "")(descr ""))
+  (lib (name "Mezzanine")(type "KiCad")(uri "/home/julian/the_wires/pixieboard/Mezzanine.pretty")(options "")(descr ""))
 )
