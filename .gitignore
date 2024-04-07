@@ -1,5 +1,5 @@
 *-backups
-*.kical_prl
+*.kicad_prl
 .~*
 ~*
 \#auto_saved_files#
