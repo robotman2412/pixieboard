@@ -3,4 +3,6 @@
   (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/xc7a200t/eec.pretty")(options "")(descr ""))
   (lib (name "eec.models")(type "KiCad")(uri "${KIPRJMOD}/xc7a200t/eec.models")(options "")(descr ""))
   (lib (name "Mezzanine")(type "KiCad")(uri "/home/julian/the_wires/pixieboard/Mezzanine.pretty")(options "")(descr ""))
+  (lib (name "RobotMan2412")(type "KiCad")(uri "/home/julian/the_wires/pixieboard/RobotMan2412.pretty")(options "")(descr ""))
+  (lib (name "SIC402")(type "KiCad")(uri "/home/julian/the_wires/pixieboard/SIC402.pretty")(options "")(descr ""))
 )

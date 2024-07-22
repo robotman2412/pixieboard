@@ -2298,44 +2298,44 @@
 		)
 	)
 	(junction
-		(at 135.89 50.8)
+		(at 115.57 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "03fbf0d5-ab93-47ff-9197-fcd81dcec0f8")
 	)
 	(junction
-		(at 138.43 140.97)
+		(at 118.11 184.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e600526-1144-4002-8ed3-d35e498dcd1c")
 	)
 	(junction
-		(at 72.39 140.97)
+		(at 52.07 184.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "82cf6a3a-b4a0-4eee-981e-9f7bef66f5a0")
 	)
 	(junction
-		(at 69.85 50.8)
+		(at 49.53 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d275d031-0df8-45a7-8873-8b193c9587e7")
 	)
 	(junction
-		(at 143.51 50.8)
+		(at 123.19 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4dc0fcd-2caf-4c4f-923e-183d40739baa")
 	)
 	(junction
-		(at 77.47 50.8)
+		(at 57.15 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f83bbcfa-fa3d-442d-bfa7-69a10ea81514")
 	)
 	(wire
 		(pts
-			(xy 138.43 50.8) (xy 135.89 50.8)
+			(xy 118.11 93.98) (xy 115.57 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2345,7 +2345,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 50.8) (xy 77.47 50.8)
+			(xy 59.69 93.98) (xy 57.15 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2355,7 +2355,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 50.8) (xy 69.85 53.34)
+			(xy 49.53 93.98) (xy 49.53 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2365,7 +2365,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 128.27) (xy 157.48 140.97)
+			(xy 137.16 171.45) (xy 137.16 184.15)
 		)
 		(stroke
 			(width 0)
@@ -2375,7 +2375,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 48.26) (xy 69.85 50.8)
+			(xy 49.53 91.44) (xy 49.53 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2385,7 +2385,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 50.8) (xy 77.47 50.8)
+			(xy 54.61 93.98) (xy 57.15 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2395,7 +2395,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 121.92) (xy 157.48 121.92)
+			(xy 135.89 165.1) (xy 137.16 165.1)
 		)
 		(stroke
 			(width 0)
@@ -2405,7 +2405,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 50.8) (xy 153.67 50.8)
+			(xy 130.81 93.98) (xy 133.35 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2415,7 +2415,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 48.26) (xy 77.47 50.8)
+			(xy 57.15 91.44) (xy 57.15 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2425,7 +2425,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 140.97) (xy 138.43 140.97)
+			(xy 137.16 184.15) (xy 118.11 184.15)
 		)
 		(stroke
 			(width 0)
@@ -2435,7 +2435,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 140.97) (xy 72.39 140.97)
+			(xy 71.12 184.15) (xy 52.07 184.15)
 		)
 		(stroke
 			(width 0)
@@ -2445,7 +2445,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 121.92) (xy 157.48 123.19)
+			(xy 137.16 165.1) (xy 137.16 166.37)
 		)
 		(stroke
 			(width 0)
@@ -2455,7 +2455,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 50.8) (xy 87.63 50.8)
+			(xy 64.77 93.98) (xy 67.31 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2465,7 +2465,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 46.99) (xy 135.89 50.8)
+			(xy 115.57 90.17) (xy 115.57 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2475,7 +2475,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 121.92) (xy 91.44 123.19)
+			(xy 71.12 165.1) (xy 71.12 166.37)
 		)
 		(stroke
 			(width 0)
@@ -2485,7 +2485,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 50.8) (xy 143.51 50.8)
+			(xy 120.65 93.98) (xy 123.19 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2495,7 +2495,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 139.7) (xy 135.89 142.24)
+			(xy 115.57 182.88) (xy 115.57 185.42)
 		)
 		(stroke
 			(width 0)
@@ -2505,7 +2505,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 140.97) (xy 72.39 142.24)
+			(xy 52.07 184.15) (xy 52.07 185.42)
 		)
 		(stroke
 			(width 0)
@@ -2515,7 +2515,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 121.92) (xy 91.44 121.92)
+			(xy 69.85 165.1) (xy 71.12 165.1)
 		)
 		(stroke
 			(width 0)
@@ -2525,7 +2525,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 50.8) (xy 69.85 50.8)
+			(xy 52.07 93.98) (xy 49.53 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2535,7 +2535,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 53.34) (xy 74.93 50.8)
+			(xy 54.61 96.52) (xy 54.61 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2545,7 +2545,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 139.7) (xy 138.43 140.97)
+			(xy 118.11 182.88) (xy 118.11 184.15)
 		)
 		(stroke
 			(width 0)
@@ -2555,7 +2555,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 48.26) (xy 143.51 50.8)
+			(xy 123.19 91.44) (xy 123.19 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2565,7 +2565,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 50.8) (xy 143.51 53.34)
+			(xy 123.19 93.98) (xy 123.19 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2575,7 +2575,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 139.7) (xy 69.85 142.24)
+			(xy 49.53 182.88) (xy 49.53 185.42)
 		)
 		(stroke
 			(width 0)
@@ -2585,7 +2585,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 128.27) (xy 91.44 140.97)
+			(xy 71.12 171.45) (xy 71.12 184.15)
 		)
 		(stroke
 			(width 0)
@@ -2595,7 +2595,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 53.34) (xy 140.97 50.8)
+			(xy 120.65 96.52) (xy 120.65 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2605,7 +2605,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 50.8) (xy 143.51 50.8)
+			(xy 125.73 93.98) (xy 123.19 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2615,7 +2615,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 140.97) (xy 138.43 142.24)
+			(xy 118.11 184.15) (xy 118.11 185.42)
 		)
 		(stroke
 			(width 0)
@@ -2625,7 +2625,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 139.7) (xy 72.39 140.97)
+			(xy 52.07 182.88) (xy 52.07 184.15)
 		)
 		(stroke
 			(width 0)
@@ -2635,7 +2635,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 50.8) (xy 77.47 53.34)
+			(xy 57.15 93.98) (xy 57.15 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2645,7 +2645,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 53.34) (xy 72.39 50.8)
+			(xy 52.07 96.52) (xy 52.07 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2655,7 +2655,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 50.8) (xy 135.89 53.34)
+			(xy 115.57 93.98) (xy 115.57 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2665,7 +2665,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 53.34) (xy 138.43 50.8)
+			(xy 118.11 96.52) (xy 118.11 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2673,9 +2673,20 @@
 		)
 		(uuid "f2f35d4e-58da-4ab7-9ac4-b5b925123cbf")
 	)
+	(text "DDR3L\nConfiguration:	256K*32\nSpeed:     		800 MT/s\nImpedance:		40 ohm"
+		(exclude_from_sim no)
+		(at 33.02 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "50336cd6-827f-4f66-9b50-9be66f71bec7")
+	)
 	(hierarchical_label "DDR_D30"
 		(shape bidirectional)
-		(at 156.21 93.98 0)
+		(at 135.89 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2687,7 +2698,7 @@
 	)
 	(hierarchical_label "DDR_A7"
 		(shape input)
-		(at 120.65 76.2 180)
+		(at 100.33 119.38 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2699,7 +2710,7 @@
 	)
 	(hierarchical_label "DDR_D2"
 		(shape bidirectional)
-		(at 90.17 63.5 0)
+		(at 69.85 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2711,7 +2722,7 @@
 	)
 	(hierarchical_label "DDR_D26"
 		(shape bidirectional)
-		(at 156.21 83.82 0)
+		(at 135.89 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2723,7 +2734,7 @@
 	)
 	(hierarchical_label "DDR_DQS2-"
 		(shape bidirectional)
-		(at 156.21 111.76 0)
+		(at 135.89 154.94 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2735,7 +2746,7 @@
 	)
 	(hierarchical_label "DDR_DQS0+"
 		(shape bidirectional)
-		(at 90.17 109.22 0)
+		(at 69.85 152.4 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2747,7 +2758,7 @@
 	)
 	(hierarchical_label "DDR_D12"
 		(shape bidirectional)
-		(at 90.17 88.9 0)
+		(at 69.85 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2759,7 +2770,7 @@
 	)
 	(hierarchical_label "~{DDR_CS}"
 		(shape input)
-		(at 54.61 121.92 180)
+		(at 34.29 165.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2771,7 +2782,7 @@
 	)
 	(hierarchical_label "DDR_A6"
 		(shape input)
-		(at 120.65 73.66 180)
+		(at 100.33 116.84 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2783,7 +2794,7 @@
 	)
 	(hierarchical_label "DDR_VREF"
 		(shape input)
-		(at 77.47 48.26 90)
+		(at 57.15 91.44 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2795,7 +2806,7 @@
 	)
 	(hierarchical_label "DDR_D8"
 		(shape bidirectional)
-		(at 90.17 78.74 0)
+		(at 69.85 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2807,7 +2818,7 @@
 	)
 	(hierarchical_label "DDR_A0"
 		(shape input)
-		(at 120.65 58.42 180)
+		(at 100.33 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2819,7 +2830,7 @@
 	)
 	(hierarchical_label "DDR_DQS3+"
 		(shape bidirectional)
-		(at 156.21 114.3 0)
+		(at 135.89 157.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2831,7 +2842,7 @@
 	)
 	(hierarchical_label "DDR_A1"
 		(shape input)
-		(at 54.61 60.96 180)
+		(at 34.29 104.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2843,7 +2854,7 @@
 	)
 	(hierarchical_label "DDR_A1"
 		(shape input)
-		(at 120.65 60.96 180)
+		(at 100.33 104.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2855,7 +2866,7 @@
 	)
 	(hierarchical_label "DDR_D11"
 		(shape bidirectional)
-		(at 90.17 86.36 0)
+		(at 69.85 129.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2867,7 +2878,7 @@
 	)
 	(hierarchical_label "DDR_CLK-"
 		(shape input)
-		(at 120.65 111.76 180)
+		(at 100.33 154.94 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2879,7 +2890,7 @@
 	)
 	(hierarchical_label "~{DDR_WE}"
 		(shape input)
-		(at 120.65 129.54 180)
+		(at 100.33 172.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2891,7 +2902,7 @@
 	)
 	(hierarchical_label "~{DDR_RAS}"
 		(shape input)
-		(at 54.61 124.46 180)
+		(at 34.29 167.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2903,7 +2914,7 @@
 	)
 	(hierarchical_label "DDR_BA0"
 		(shape input)
-		(at 120.65 99.06 180)
+		(at 100.33 142.24 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2915,7 +2926,7 @@
 	)
 	(hierarchical_label "DDR_DQS1-"
 		(shape bidirectional)
-		(at 90.17 116.84 0)
+		(at 69.85 160.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2927,7 +2938,7 @@
 	)
 	(hierarchical_label "DDR_D24"
 		(shape bidirectional)
-		(at 156.21 78.74 0)
+		(at 135.89 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2939,7 +2950,7 @@
 	)
 	(hierarchical_label "DDR_A8"
 		(shape input)
-		(at 120.65 78.74 180)
+		(at 100.33 121.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2951,7 +2962,7 @@
 	)
 	(hierarchical_label "DDR_D5"
 		(shape bidirectional)
-		(at 90.17 71.12 0)
+		(at 69.85 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2963,7 +2974,7 @@
 	)
 	(hierarchical_label "~{DDR_CAS}"
 		(shape input)
-		(at 54.61 127 180)
+		(at 34.29 170.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2975,7 +2986,7 @@
 	)
 	(hierarchical_label "DDR_D15"
 		(shape bidirectional)
-		(at 90.17 96.52 0)
+		(at 69.85 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2987,7 +2998,7 @@
 	)
 	(hierarchical_label "DDR_D4"
 		(shape bidirectional)
-		(at 90.17 68.58 0)
+		(at 69.85 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2999,7 +3010,7 @@
 	)
 	(hierarchical_label "DDR_BA2"
 		(shape input)
-		(at 54.61 104.14 180)
+		(at 34.29 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3011,7 +3022,7 @@
 	)
 	(hierarchical_label "DDR_BA0"
 		(shape input)
-		(at 54.61 99.06 180)
+		(at 34.29 142.24 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3023,7 +3034,7 @@
 	)
 	(hierarchical_label "~{DDR_WE}"
 		(shape input)
-		(at 54.61 129.54 180)
+		(at 34.29 172.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3035,7 +3046,7 @@
 	)
 	(hierarchical_label "DDR_A9"
 		(shape input)
-		(at 54.61 81.28 180)
+		(at 34.29 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3047,7 +3058,7 @@
 	)
 	(hierarchical_label "DDR_ODT"
 		(shape input)
-		(at 120.65 132.08 180)
+		(at 100.33 175.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3059,7 +3070,7 @@
 	)
 	(hierarchical_label "DDR_D19"
 		(shape bidirectional)
-		(at 156.21 66.04 0)
+		(at 135.89 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3071,7 +3082,7 @@
 	)
 	(hierarchical_label "DDR_A14"
 		(shape input)
-		(at 54.61 93.98 180)
+		(at 34.29 137.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3083,7 +3094,7 @@
 	)
 	(hierarchical_label "DDR_D13"
 		(shape bidirectional)
-		(at 90.17 91.44 0)
+		(at 69.85 134.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3095,7 +3106,7 @@
 	)
 	(hierarchical_label "DDR_A4"
 		(shape input)
-		(at 120.65 68.58 180)
+		(at 100.33 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3107,7 +3118,7 @@
 	)
 	(hierarchical_label "DDR_DQS3-"
 		(shape bidirectional)
-		(at 156.21 116.84 0)
+		(at 135.89 160.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3119,7 +3130,7 @@
 	)
 	(hierarchical_label "DDR_VREF"
 		(shape input)
-		(at 143.51 48.26 90)
+		(at 123.19 91.44 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3131,7 +3142,7 @@
 	)
 	(hierarchical_label "DDR_D14"
 		(shape bidirectional)
-		(at 90.17 93.98 0)
+		(at 69.85 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3143,7 +3154,7 @@
 	)
 	(hierarchical_label "DDR_CLK+"
 		(shape input)
-		(at 54.61 109.22 180)
+		(at 34.29 152.4 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3155,7 +3166,7 @@
 	)
 	(hierarchical_label "DDR_D27"
 		(shape bidirectional)
-		(at 156.21 86.36 0)
+		(at 135.89 129.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3167,7 +3178,7 @@
 	)
 	(hierarchical_label "DDR_D0"
 		(shape bidirectional)
-		(at 90.17 58.42 0)
+		(at 69.85 101.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3179,7 +3190,7 @@
 	)
 	(hierarchical_label "DDR_DM3"
 		(shape input)
-		(at 156.21 104.14 0)
+		(at 135.89 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3191,7 +3202,7 @@
 	)
 	(hierarchical_label "DDR_D20"
 		(shape bidirectional)
-		(at 156.21 68.58 0)
+		(at 135.89 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3203,7 +3214,7 @@
 	)
 	(hierarchical_label "~{DDR_RST}"
 		(shape input)
-		(at 54.61 119.38 180)
+		(at 34.29 162.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3215,7 +3226,7 @@
 	)
 	(hierarchical_label "DDR_BA1"
 		(shape input)
-		(at 54.61 101.6 180)
+		(at 34.29 144.78 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3227,7 +3238,7 @@
 	)
 	(hierarchical_label "DDR_A4"
 		(shape input)
-		(at 54.61 68.58 180)
+		(at 34.29 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3239,7 +3250,7 @@
 	)
 	(hierarchical_label "DDR_CLK_E"
 		(shape input)
-		(at 120.65 114.3 180)
+		(at 100.33 157.48 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3251,7 +3262,7 @@
 	)
 	(hierarchical_label "DDR_DM2"
 		(shape input)
-		(at 156.21 101.6 0)
+		(at 135.89 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3263,7 +3274,7 @@
 	)
 	(hierarchical_label "~{DDR_RST}"
 		(shape input)
-		(at 120.65 119.38 180)
+		(at 100.33 162.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3275,7 +3286,7 @@
 	)
 	(hierarchical_label "DDR_A10"
 		(shape input)
-		(at 120.65 83.82 180)
+		(at 100.33 127 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3287,7 +3298,7 @@
 	)
 	(hierarchical_label "DDR_A0"
 		(shape input)
-		(at 54.61 58.42 180)
+		(at 34.29 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3299,7 +3310,7 @@
 	)
 	(hierarchical_label "DDR_D31"
 		(shape bidirectional)
-		(at 156.21 96.52 0)
+		(at 135.89 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3311,7 +3322,7 @@
 	)
 	(hierarchical_label "DDR_D18"
 		(shape bidirectional)
-		(at 156.21 63.5 0)
+		(at 135.89 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3323,7 +3334,7 @@
 	)
 	(hierarchical_label "DDR_A14"
 		(shape input)
-		(at 120.65 93.98 180)
+		(at 100.33 137.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3335,7 +3346,7 @@
 	)
 	(hierarchical_label "DDR_D16"
 		(shape bidirectional)
-		(at 156.21 58.42 0)
+		(at 135.89 101.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3347,7 +3358,7 @@
 	)
 	(hierarchical_label "DDR_DQS0-"
 		(shape bidirectional)
-		(at 90.17 111.76 0)
+		(at 69.85 154.94 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3359,7 +3370,7 @@
 	)
 	(hierarchical_label "DDR_A10"
 		(shape input)
-		(at 54.61 83.82 180)
+		(at 34.29 127 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3371,7 +3382,7 @@
 	)
 	(hierarchical_label "DDR_A7"
 		(shape input)
-		(at 54.61 76.2 180)
+		(at 34.29 119.38 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3383,7 +3394,7 @@
 	)
 	(hierarchical_label "DDR_A3"
 		(shape input)
-		(at 120.65 66.04 180)
+		(at 100.33 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3395,7 +3406,7 @@
 	)
 	(hierarchical_label "DDR_D22"
 		(shape bidirectional)
-		(at 156.21 73.66 0)
+		(at 135.89 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3407,7 +3418,7 @@
 	)
 	(hierarchical_label "~{DDR_CS}"
 		(shape input)
-		(at 120.65 121.92 180)
+		(at 100.33 165.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3419,7 +3430,7 @@
 	)
 	(hierarchical_label "DDR_ODT"
 		(shape input)
-		(at 54.61 132.08 180)
+		(at 34.29 175.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3431,7 +3442,7 @@
 	)
 	(hierarchical_label "DDR_D6"
 		(shape bidirectional)
-		(at 90.17 73.66 0)
+		(at 69.85 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3443,7 +3454,7 @@
 	)
 	(hierarchical_label "DDR_A11"
 		(shape input)
-		(at 120.65 86.36 180)
+		(at 100.33 129.54 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3455,7 +3466,7 @@
 	)
 	(hierarchical_label "DDR_CLK_E"
 		(shape input)
-		(at 54.61 114.3 180)
+		(at 34.29 157.48 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3467,7 +3478,7 @@
 	)
 	(hierarchical_label "DDR_A3"
 		(shape input)
-		(at 54.61 66.04 180)
+		(at 34.29 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3479,7 +3490,7 @@
 	)
 	(hierarchical_label "DDR_CLK+"
 		(shape input)
-		(at 120.65 109.22 180)
+		(at 100.33 152.4 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3491,7 +3502,7 @@
 	)
 	(hierarchical_label "DDR_A13"
 		(shape input)
-		(at 120.65 91.44 180)
+		(at 100.33 134.62 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3503,7 +3514,7 @@
 	)
 	(hierarchical_label "DDR_DM0"
 		(shape input)
-		(at 90.17 101.6 0)
+		(at 69.85 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3515,7 +3526,7 @@
 	)
 	(hierarchical_label "DDR_D9"
 		(shape bidirectional)
-		(at 90.17 81.28 0)
+		(at 69.85 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3527,7 +3538,7 @@
 	)
 	(hierarchical_label "DDR_D23"
 		(shape bidirectional)
-		(at 156.21 76.2 0)
+		(at 135.89 119.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3539,7 +3550,7 @@
 	)
 	(hierarchical_label "DDR_DQS1+"
 		(shape bidirectional)
-		(at 90.17 114.3 0)
+		(at 69.85 157.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3551,7 +3562,7 @@
 	)
 	(hierarchical_label "DDR_A5"
 		(shape input)
-		(at 120.65 71.12 180)
+		(at 100.33 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3563,7 +3574,7 @@
 	)
 	(hierarchical_label "DDR_D21"
 		(shape bidirectional)
-		(at 156.21 71.12 0)
+		(at 135.89 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3575,7 +3586,7 @@
 	)
 	(hierarchical_label "DDR_A2"
 		(shape input)
-		(at 120.65 63.5 180)
+		(at 100.33 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3587,7 +3598,7 @@
 	)
 	(hierarchical_label "DDR_D28"
 		(shape bidirectional)
-		(at 156.21 88.9 0)
+		(at 135.89 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3599,7 +3610,7 @@
 	)
 	(hierarchical_label "DDR_A13"
 		(shape input)
-		(at 54.61 91.44 180)
+		(at 34.29 134.62 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3611,7 +3622,7 @@
 	)
 	(hierarchical_label "DDR_A2"
 		(shape input)
-		(at 54.61 63.5 180)
+		(at 34.29 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3623,7 +3634,7 @@
 	)
 	(hierarchical_label "DDR_A9"
 		(shape input)
-		(at 120.65 81.28 180)
+		(at 100.33 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3635,7 +3646,7 @@
 	)
 	(hierarchical_label "DDR_D3"
 		(shape bidirectional)
-		(at 90.17 66.04 0)
+		(at 69.85 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3647,7 +3658,7 @@
 	)
 	(hierarchical_label "DDR_D10"
 		(shape bidirectional)
-		(at 90.17 83.82 0)
+		(at 69.85 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3659,7 +3670,7 @@
 	)
 	(hierarchical_label "DDR_A8"
 		(shape input)
-		(at 54.61 78.74 180)
+		(at 34.29 121.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3671,7 +3682,7 @@
 	)
 	(hierarchical_label "DDR_D25"
 		(shape bidirectional)
-		(at 156.21 81.28 0)
+		(at 135.89 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3683,7 +3694,7 @@
 	)
 	(hierarchical_label "DDR_D29"
 		(shape bidirectional)
-		(at 156.21 91.44 0)
+		(at 135.89 134.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3695,7 +3706,7 @@
 	)
 	(hierarchical_label "DDR_D1"
 		(shape bidirectional)
-		(at 90.17 60.96 0)
+		(at 69.85 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3707,7 +3718,7 @@
 	)
 	(hierarchical_label "DDR_A12"
 		(shape input)
-		(at 54.61 88.9 180)
+		(at 34.29 132.08 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3719,7 +3730,7 @@
 	)
 	(hierarchical_label "DDR_BA2"
 		(shape input)
-		(at 120.65 104.14 180)
+		(at 100.33 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3731,7 +3742,7 @@
 	)
 	(hierarchical_label "DDR_DM1"
 		(shape input)
-		(at 90.17 104.14 0)
+		(at 69.85 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3743,7 +3754,7 @@
 	)
 	(hierarchical_label "~{DDR_CAS}"
 		(shape input)
-		(at 120.65 127 180)
+		(at 100.33 170.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3755,7 +3766,7 @@
 	)
 	(hierarchical_label "DDR_CLK_E"
 		(shape input)
-		(at 120.65 114.3 180)
+		(at 100.33 157.48 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3767,7 +3778,7 @@
 	)
 	(hierarchical_label "DDR_A6"
 		(shape input)
-		(at 54.61 73.66 180)
+		(at 34.29 116.84 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3779,7 +3790,7 @@
 	)
 	(hierarchical_label "DDR_DQS2+"
 		(shape bidirectional)
-		(at 156.21 109.22 0)
+		(at 135.89 152.4 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3791,7 +3802,7 @@
 	)
 	(hierarchical_label "DDR_CLK-"
 		(shape input)
-		(at 54.61 111.76 180)
+		(at 34.29 154.94 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3803,7 +3814,7 @@
 	)
 	(hierarchical_label "DDR_D17"
 		(shape bidirectional)
-		(at 156.21 60.96 0)
+		(at 135.89 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3815,7 +3826,7 @@
 	)
 	(hierarchical_label "~{DDR_RAS}"
 		(shape input)
-		(at 120.65 124.46 180)
+		(at 100.33 167.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3827,7 +3838,7 @@
 	)
 	(hierarchical_label "DDR_A5"
 		(shape input)
-		(at 54.61 71.12 180)
+		(at 34.29 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3839,7 +3850,7 @@
 	)
 	(hierarchical_label "DDR_D7"
 		(shape bidirectional)
-		(at 90.17 76.2 0)
+		(at 69.85 119.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3851,7 +3862,7 @@
 	)
 	(hierarchical_label "DDR_A12"
 		(shape input)
-		(at 120.65 88.9 180)
+		(at 100.33 132.08 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3863,7 +3874,7 @@
 	)
 	(hierarchical_label "DDR_A11"
 		(shape input)
-		(at 54.61 86.36 180)
+		(at 34.29 129.54 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3875,7 +3886,7 @@
 	)
 	(hierarchical_label "DDR_BA1"
 		(shape input)
-		(at 120.65 101.6 180)
+		(at 100.33 144.78 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3887,7 +3898,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 87.63 50.8 90)
+		(at 67.31 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3896,7 +3907,7 @@
 		(fields_autoplaced yes)
 		(uuid "064114f8-2081-4291-8cd6-9ebd31b468dc")
 		(property "Reference" "#PWR023"
-			(at 93.98 50.8 0)
+			(at 73.66 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3905,7 +3916,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 91.44 50.7999 90)
+			(at 71.12 93.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3914,7 +3925,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 50.8 0)
+			(at 67.31 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3923,7 +3934,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 50.8 0)
+			(at 67.31 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3932,7 +3943,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 87.63 50.8 0)
+			(at 67.31 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3954,7 +3965,7 @@
 	)
 	(symbol
 		(lib_id "power:+1V35")
-		(at 135.89 46.99 0)
+		(at 115.57 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3963,7 +3974,7 @@
 		(fields_autoplaced yes)
 		(uuid "0c4c2141-1c74-4e19-b76c-9cccd3312d64")
 		(property "Reference" "#PWR06"
-			(at 135.89 50.8 0)
+			(at 115.57 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3972,7 +3983,7 @@
 			)
 		)
 		(property "Value" "+1V35"
-			(at 135.89 41.91 0)
+			(at 115.57 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3980,7 +3991,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 46.99 0)
+			(at 115.57 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3989,7 +4000,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 46.99 0)
+			(at 115.57 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3998,7 +4009,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+1V35\""
-			(at 135.89 46.99 0)
+			(at 115.57 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4020,7 +4031,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 91.44 125.73 0)
+		(at 71.12 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4029,7 +4040,7 @@
 		(fields_autoplaced yes)
 		(uuid "0e6506ff-6e79-4ea5-8f6c-71f51d5d35b0")
 		(property "Reference" "R1"
-			(at 93.98 124.4599 0)
+			(at 73.66 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4038,7 +4049,7 @@
 			)
 		)
 		(property "Value" "240R"
-			(at 93.98 126.9999 0)
+			(at 73.66 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4047,7 +4058,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 91.44 125.73 0)
+			(at 71.12 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4056,7 +4067,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 91.44 125.73 0)
+			(at 71.12 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4065,7 +4076,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 91.44 125.73 0)
+			(at 71.12 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4090,7 +4101,7 @@
 	)
 	(symbol
 		(lib_id "Memory_RAM:AS4C256M16D3")
-		(at 72.39 96.52 0)
+		(at 52.07 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4099,7 +4110,7 @@
 		(fields_autoplaced yes)
 		(uuid "1b61cc22-5e58-4c00-9710-de54448b6010")
 		(property "Reference" "U2"
-			(at 74.5841 139.7 0)
+			(at 54.2641 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4108,7 +4119,7 @@
 			)
 		)
 		(property "Value" "AS4C256M16D3"
-			(at 74.5841 142.24 0)
+			(at 54.2641 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4117,7 +4128,7 @@
 			)
 		)
 		(property "Footprint" "Package_BGA:BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm"
-			(at 71.12 50.8 0)
+			(at 50.8 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4126,7 +4137,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.alliancememory.com/wp-content/uploads/pdf/ddr3/4GB-AS4C256M16D3.pdf"
-			(at 71.12 27.94 0)
+			(at 50.8 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4135,7 +4146,7 @@
 			)
 		)
 		(property "Description" "4Gb (256Mx16 bit) Double Data Rate 3 Synchronous DRAM"
-			(at 72.39 96.52 0)
+			(at 52.07 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4442,7 +4453,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 148.59 50.8 90)
+		(at 128.27 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4450,7 +4461,7 @@
 		(dnp no)
 		(uuid "272e0051-d707-4404-b074-b2abe57f1653")
 		(property "Reference" "C1"
-			(at 148.59 48.26 90)
+			(at 128.27 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4458,7 +4469,7 @@
 			)
 		)
 		(property "Value" "1nF"
-			(at 148.59 53.34 90)
+			(at 128.27 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4466,7 +4477,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 148.59 50.8 0)
+			(at 128.27 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4475,7 +4486,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 50.8 0)
+			(at 128.27 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4484,7 +4495,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 148.59 50.8 0)
+			(at 128.27 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4509,7 +4520,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 72.39 142.24 0)
+		(at 52.07 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4518,7 +4529,7 @@
 		(fields_autoplaced yes)
 		(uuid "3a8b39fa-da2e-4570-95f7-ecafde7bc81f")
 		(property "Reference" "#PWR03"
-			(at 72.39 148.59 0)
+			(at 52.07 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4527,7 +4538,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 72.39 147.32 0)
+			(at 52.07 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4535,7 +4546,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 72.39 142.24 0)
+			(at 52.07 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4544,7 +4555,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 142.24 0)
+			(at 52.07 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4553,7 +4564,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 72.39 142.24 0)
+			(at 52.07 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4575,7 +4586,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 69.85 142.24 0)
+		(at 49.53 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4584,7 +4595,7 @@
 		(fields_autoplaced yes)
 		(uuid "4aa31a15-b83f-4e3d-a440-b46e084b803b")
 		(property "Reference" "#PWR01"
-			(at 69.85 148.59 0)
+			(at 49.53 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4593,7 +4604,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 69.85 147.32 0)
+			(at 49.53 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4601,7 +4612,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 142.24 0)
+			(at 49.53 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4610,7 +4621,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 142.24 0)
+			(at 49.53 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4619,7 +4630,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 69.85 142.24 0)
+			(at 49.53 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4641,7 +4652,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 135.89 142.24 0)
+		(at 115.57 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4650,7 +4661,7 @@
 		(fields_autoplaced yes)
 		(uuid "4dc83f3b-9b19-4bd4-a1de-a201b05cf79f")
 		(property "Reference" "#PWR02"
-			(at 135.89 148.59 0)
+			(at 115.57 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4659,7 +4670,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 135.89 147.32 0)
+			(at 115.57 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4667,7 +4678,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 142.24 0)
+			(at 115.57 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4676,7 +4687,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 142.24 0)
+			(at 115.57 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4685,7 +4696,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 135.89 142.24 0)
+			(at 115.57 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4707,7 +4718,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 138.43 142.24 0)
+		(at 118.11 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4716,7 +4727,7 @@
 		(fields_autoplaced yes)
 		(uuid "513aa5af-4662-40d8-9fad-d9cc6c3bc27f")
 		(property "Reference" "#PWR04"
-			(at 138.43 148.59 0)
+			(at 118.11 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4725,7 +4736,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 138.43 147.32 0)
+			(at 118.11 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4733,7 +4744,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 138.43 142.24 0)
+			(at 118.11 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4742,7 +4753,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 138.43 142.24 0)
+			(at 118.11 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4751,7 +4762,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 138.43 142.24 0)
+			(at 118.11 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4773,7 +4784,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 157.48 125.73 0)
+		(at 137.16 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4782,7 +4793,7 @@
 		(fields_autoplaced yes)
 		(uuid "98a070cd-150b-4c1a-a738-bd1f8bbd818e")
 		(property "Reference" "R2"
-			(at 160.02 124.4599 0)
+			(at 139.7 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4791,7 +4802,7 @@
 			)
 		)
 		(property "Value" "240R"
-			(at 160.02 126.9999 0)
+			(at 139.7 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4800,7 +4811,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 157.48 125.73 0)
+			(at 137.16 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4809,7 +4820,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 157.48 125.73 0)
+			(at 137.16 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4818,7 +4829,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 157.48 125.73 0)
+			(at 137.16 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4843,7 +4854,7 @@
 	)
 	(symbol
 		(lib_id "power:+1V35")
-		(at 69.85 48.26 0)
+		(at 49.53 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4852,7 +4863,7 @@
 		(fields_autoplaced yes)
 		(uuid "ba0bd6aa-a5b9-4fb6-8ebf-dd090dabcc09")
 		(property "Reference" "#PWR05"
-			(at 69.85 52.07 0)
+			(at 49.53 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4861,7 +4872,7 @@
 			)
 		)
 		(property "Value" "+1V35"
-			(at 69.85 43.18 0)
+			(at 49.53 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4869,7 +4880,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 48.26 0)
+			(at 49.53 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4878,7 +4889,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 48.26 0)
+			(at 49.53 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4887,7 +4898,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+1V35\""
-			(at 69.85 48.26 0)
+			(at 49.53 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4909,7 +4920,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 82.55 50.8 90)
+		(at 62.23 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4917,7 +4928,7 @@
 		(dnp no)
 		(uuid "c92d05c3-32a1-4d0c-92e0-95570066f840")
 		(property "Reference" "C2"
-			(at 82.55 46.99 90)
+			(at 62.23 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4925,7 +4936,7 @@
 			)
 		)
 		(property "Value" "1nF"
-			(at 82.55 53.34 90)
+			(at 62.23 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4933,7 +4944,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 82.55 50.8 0)
+			(at 62.23 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4942,7 +4953,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 82.55 50.8 0)
+			(at 62.23 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4951,7 +4962,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 82.55 50.8 0)
+			(at 62.23 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4976,7 +4987,7 @@
 	)
 	(symbol
 		(lib_id "Memory_RAM:AS4C256M16D3")
-		(at 138.43 96.52 0)
+		(at 118.11 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4985,7 +4996,7 @@
 		(fields_autoplaced yes)
 		(uuid "d310dd80-9cf0-4a6d-88cd-579bc5e23be9")
 		(property "Reference" "U3"
-			(at 140.6241 139.7 0)
+			(at 120.3041 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4994,7 +5005,7 @@
 			)
 		)
 		(property "Value" "AS4C256M16D3"
-			(at 140.6241 142.24 0)
+			(at 120.3041 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5003,7 +5014,7 @@
 			)
 		)
 		(property "Footprint" "Package_BGA:BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm"
-			(at 137.16 50.8 0)
+			(at 116.84 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5012,7 +5023,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.alliancememory.com/wp-content/uploads/pdf/ddr3/4GB-AS4C256M16D3.pdf"
-			(at 137.16 27.94 0)
+			(at 116.84 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5021,7 +5032,7 @@
 			)
 		)
 		(property "Description" "4Gb (256Mx16 bit) Double Data Rate 3 Synchronous DRAM"
-			(at 138.43 96.52 0)
+			(at 118.11 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5328,7 +5339,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 153.67 50.8 90)
+		(at 133.35 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5337,7 +5348,7 @@
 		(fields_autoplaced yes)
 		(uuid "e27bab8f-e46b-4aef-a9a7-a52d51f8a023")
 		(property "Reference" "#PWR024"
-			(at 160.02 50.8 0)
+			(at 139.7 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5346,7 +5357,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 157.48 50.7999 90)
+			(at 137.16 93.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5355,7 +5366,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 50.8 0)
+			(at 133.35 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5364,7 +5375,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 50.8 0)
+			(at 133.35 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5373,7 +5384,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 153.67 50.8 0)
+			(at 133.35 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
