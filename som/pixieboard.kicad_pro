@@ -58,7 +58,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "starved_thermal|84400000|78250000|cacd85fb-01a0-4222-be26-35c84509d0d2|c7d1e8d1-1c76-4aff-9554-cdf40f02b9be|B.Cu"
+      ],
       "meta": {
         "version": 2
       },
@@ -79,6 +81,7 @@
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -182,7 +185,8 @@
         0.1092,
         0.1161,
         0.15,
-        0.2
+        0.2,
+        0.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -810,6 +814,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
