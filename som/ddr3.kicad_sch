@@ -5729,18 +5729,6 @@
 		)
 		(uuid "a2210c82-c77c-4af5-8065-6880575efbc9")
 	)
-	(hierarchical_label "~{DDR_RST}"
-		(shape input)
-		(at 240.03 138.43 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a2e9e5d1-7080-4bb7-a946-64713c2acb31")
-	)
 	(hierarchical_label "DDR_CLK_E"
 		(shape input)
 		(at 173.99 88.9 180)
@@ -7067,6 +7055,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 269.24 74.93 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3d2926e9-2109-497a-b6b3-8f2f3bcd7b31")
+		(property "Reference" "R18"
+			(at 271.78 73.6599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10K"
+			(at 271.78 76.1999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 269.24 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 269.24 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 269.24 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c88c4230-ff33-4ede-bff9-c7dd74b3bee5")
+		)
+		(pin "1"
+			(uuid "ee82fe27-f024-4818-bdb0-84dfe0184c95")
+		)
+		(instances
+			(project "pixieboard"
+				(path "/e7142f2b-5d92-4ad9-8024-bfc94c5783c1/57afc700-82e6-45de-a8f3-81fb003e9961"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Pack04")
 		(at 181.61 63.5 90)
 		(unit 1)
@@ -7331,7 +7388,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 269.24 62.23 0)
 			(effects
 				(font
@@ -9027,73 +9084,6 @@
 			(project "pixieboard"
 				(path "/e7142f2b-5d92-4ad9-8024-bfc94c5783c1/57afc700-82e6-45de-a8f3-81fb003e9961"
 					(reference "RN7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 269.24 74.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "fd789ce9-aef9-40e0-b5fb-2d18a3bf5235")
-		(property "Reference" "R18"
-			(at 274.32 74.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10K"
-			(at 271.78 74.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 269.24 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 269.24 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 269.24 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a9f401e6-131f-4c87-895f-350e35718268")
-		)
-		(pin "1"
-			(uuid "db1c2fdb-cd5f-4cbf-9a2b-33fa9d22d406")
-		)
-		(instances
-			(project "pixieboard"
-				(path "/e7142f2b-5d92-4ad9-8024-bfc94c5783c1/57afc700-82e6-45de-a8f3-81fb003e9961"
-					(reference "R18")
 					(unit 1)
 				)
 			)
