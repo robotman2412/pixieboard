@@ -3278,6 +3278,12 @@
 		(uuid "e3800b73-0563-4e27-8cad-4ca0ada2ed4b")
 	)
 	(junction
+		(at 196.85 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e4bf267c-8e89-479e-883f-bf82ed13de32")
+	)
+	(junction
 		(at 196.85 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3760,6 +3766,16 @@
 			(type default)
 		)
 		(uuid "41919724-55b9-4f03-8cac-f6e679348d36")
+	)
+	(wire
+		(pts
+			(xy 196.85 137.16) (xy 196.85 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "477b0d76-dc51-4572-8fa6-f5a450458b44")
 	)
 	(wire
 		(pts
@@ -4403,7 +4419,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 132.08) (xy 196.85 139.7)
+			(xy 196.85 132.08) (xy 196.85 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4510,6 +4526,16 @@
 			(type default)
 		)
 		(uuid "ce9a9a8f-1cbe-4b26-8265-6320a8cf5112")
+	)
+	(wire
+		(pts
+			(xy 186.69 137.16) (xy 196.85 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfec0afe-3ba0-4cda-96c1-72b3f99e4ffc")
 	)
 	(wire
 		(pts
@@ -4840,6 +4866,18 @@
 			(justify left)
 		)
 		(uuid "158e6ddf-6069-4e78-84f0-0c38e99070d6")
+	)
+	(hierarchical_label "~{DDR_RST}"
+		(shape input)
+		(at 176.53 137.16 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1841341b-ea5c-4393-95c6-824a96ad2155")
 	)
 	(hierarchical_label "DDR_A11"
 		(shape input)
@@ -6527,6 +6565,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC part number" "C2982171"
+			(at 49.53 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "C2"
 			(uuid "c6b6e99a-a939-4c86-905e-43c7af574d0e")
 		)
@@ -7012,6 +7059,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC part number" "C34771"
+			(at 240.03 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "eafa814f-9397-4e5c-94c5-dc867a1fc862")
 		)
@@ -7176,6 +7232,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC part number" "C136844"
+			(at 181.61 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "b2cb32cc-7518-46eb-bb9f-14d0eef7b928")
 		)
@@ -7255,6 +7320,15 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 181.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part number" "C136844"
+			(at 181.61 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7954,6 +8028,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC part number" "C136844"
+			(at 181.61 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "d106ea42-c33a-4531-9e74-87bb68993820")
 		)
@@ -8246,6 +8329,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC part number" "C136844"
+			(at 181.61 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "21eede80-014f-4582-9b33-2ff6bd68fccd")
 		)
@@ -8399,6 +8491,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC part number" "C136844"
+			(at 181.61 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "b4db1e11-b1a0-401e-84ad-03b49803bb03")
 		)
@@ -8478,6 +8579,15 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 181.61 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part number" "C136844"
+			(at 181.61 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8565,6 +8675,15 @@
 			)
 		)
 		(property "Description" "4Gb (256Mx16 bit) Double Data Rate 3 Synchronous DRAM"
+			(at 115.57 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part number" "C2982171"
 			(at 115.57 99.06 0)
 			(effects
 				(font
@@ -9049,6 +9168,15 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 181.61 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part number" "C136844"
+			(at 181.61 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)

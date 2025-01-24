@@ -12944,6 +12944,10 @@
 		(at 38.1 168.91)
 		(uuid "e8f49a89-e2af-4309-a7b7-84507989ac22")
 	)
+	(no_connect
+		(at 38.1 186.69)
+		(uuid "f98e1824-5d1c-404e-bd59-713ec88a4b75")
+	)
 	(wire
 		(pts
 			(xy 115.57 135.89) (xy 115.57 138.43)
@@ -14323,16 +14327,6 @@
 			(type default)
 		)
 		(uuid "2bef0441-8909-4232-a820-4854778d6c6d")
-	)
-	(wire
-		(pts
-			(xy 35.56 186.69) (xy 38.1 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2cb0198c-ddc4-4ced-815b-39f11066a730")
 	)
 	(wire
 		(pts
@@ -20136,18 +20130,6 @@
 			)
 		)
 	)
-	(hierarchical_label "P_{good,1v0}"
-		(shape output)
-		(at 35.56 186.69 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "39e7af10-efad-4a1a-bb8c-b5a6d8893158")
-	)
 	(hierarchical_label "V_{in}"
 		(shape input)
 		(at 34.29 57.15 180)
@@ -21539,68 +21521,8 @@
 				(hide yes)
 			)
 		)
-		(property "automotive" "No"
-			(at 214.63 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "category" "IC"
-			(at 214.63 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
 		(property "ciiva ids" "8919055"
 			(at 214.63 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "device class L1" "Integrated Circuits (ICs)"
-			(at 214.63 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "device class L2" "Embedded Processors and Controllers"
-			(at 214.63 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "device class L3" "FPGAs - Field Programmable Gate Arrays"
-			(at 214.63 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "digikey description" "IC FPGA ARTIX7 285 I/O 484FCBGA"
-			(at 214.63 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21649,16 +21571,6 @@
 				(hide yes)
 			)
 		)
-		(property "lead free" "Yes"
-			(at 214.63 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
 		(property "library id" "eec064ce61a425dd"
 			(at 214.63 82.55 0)
 			(effects
@@ -21689,133 +21601,12 @@
 				(hide yes)
 			)
 		)
-		(property "max supply voltage" "3.465V"
-			(at 214.63 74.93 0)
+		(property "LCSC part number" "C1521841"
+			(at 214.63 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "min supply voltage" "0.95V"
-			(at 214.63 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "number of I/Os" "285"
-			(at 214.63 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "number of logic blocks" "33650"
-			(at 214.63 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "number of logic elements cells" "215360"
-			(at 214.63 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "package" "FBG484"
-			(at 214.63 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "release date" "1402480027"
-			(at 214.63 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "rohs" "Yes"
-			(at 214.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "speed grade" "3"
-			(at 214.63 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "standoff height" "0.4mm"
-			(at 214.63 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "temperature range high" "+100°C"
-			(at 214.63 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "temperature range low" "0°C"
-			(at 214.63 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "vault revision" "8A58598F-56A5-4DEC-BA3F-FDB4B6026E25"
-			(at 214.63 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -24293,6 +24084,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC part number" "C379351"
+			(at 100.33 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "0bd168c0-8605-45cf-a1ef-6befafcfebad")
 		)
@@ -25047,6 +24847,15 @@
 			)
 		)
 		(property "Description" "200mA, Low Noise, CMOS Low Dropout Regulator, Positive, Adjustable, TSOT-23-5"
+			(at 49.53 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part number" "C379351"
 			(at 49.53 128.27 0)
 			(effects
 				(font
@@ -26591,68 +26400,8 @@
 				(hide yes)
 			)
 		)
-		(property "automotive" "No"
-			(at 209.55 10.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "category" "IC"
-			(at 209.55 7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
 		(property "ciiva ids" "8919055"
 			(at 209.55 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "device class L1" "Integrated Circuits (ICs)"
-			(at 209.55 2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "device class L2" "Embedded Processors and Controllers"
-			(at 209.55 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "device class L3" "FPGAs - Field Programmable Gate Arrays"
-			(at 209.55 -2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "digikey description" "IC FPGA ARTIX7 285 I/O 484FCBGA"
-			(at 209.55 -5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26701,16 +26450,6 @@
 				(hide yes)
 			)
 		)
-		(property "lead free" "Yes"
-			(at 209.55 -17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
 		(property "library id" "eec064ce61a425dd"
 			(at 209.55 -20.32 0)
 			(effects
@@ -26741,133 +26480,12 @@
 				(hide yes)
 			)
 		)
-		(property "max supply voltage" "3.465V"
-			(at 209.55 -27.94 0)
+		(property "LCSC part number" "C1521841"
+			(at 209.55 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "min supply voltage" "0.95V"
-			(at 209.55 -30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "number of I/Os" "285"
-			(at 209.55 -33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "number of logic blocks" "33650"
-			(at 209.55 -35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "number of logic elements cells" "215360"
-			(at 209.55 -38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "package" "FBG484"
-			(at 209.55 -40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "release date" "1402480027"
-			(at 209.55 -43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "rohs" "Yes"
-			(at 209.55 -45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "speed grade" "3"
-			(at 209.55 -48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "standoff height" "0.4mm"
-			(at 209.55 -50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "temperature range high" "+100°C"
-			(at 209.55 -53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "temperature range low" "0°C"
-			(at 209.55 -55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "vault revision" "8A58598F-56A5-4DEC-BA3F-FDB4B6026E25"
-			(at 209.55 -58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -31417,6 +31035,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC part number" " C511100"
+			(at 49.53 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "16"
 			(uuid "8dd8e6c2-40fd-4e98-ba26-4ff05b24968a")
 		)
@@ -33848,68 +33475,8 @@
 				(hide yes)
 			)
 		)
-		(property "automotive" "No"
-			(at 139.7 10.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "category" "IC"
-			(at 139.7 7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
 		(property "ciiva ids" "8919055"
 			(at 139.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "device class L1" "Integrated Circuits (ICs)"
-			(at 139.7 2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "device class L2" "Embedded Processors and Controllers"
-			(at 139.7 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "device class L3" "FPGAs - Field Programmable Gate Arrays"
-			(at 139.7 -2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "digikey description" "IC FPGA ARTIX7 285 I/O 484FCBGA"
-			(at 139.7 -5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33958,16 +33525,6 @@
 				(hide yes)
 			)
 		)
-		(property "lead free" "Yes"
-			(at 139.7 -17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
 		(property "library id" "eec064ce61a425dd"
 			(at 139.7 -20.32 0)
 			(effects
@@ -33998,133 +33555,12 @@
 				(hide yes)
 			)
 		)
-		(property "max supply voltage" "3.465V"
-			(at 139.7 -27.94 0)
+		(property "LCSC part number" "C1521841"
+			(at 139.7 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "min supply voltage" "0.95V"
-			(at 139.7 -30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "number of I/Os" "285"
-			(at 139.7 -33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "number of logic blocks" "33650"
-			(at 139.7 -35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "number of logic elements cells" "215360"
-			(at 139.7 -38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "package" "FBG484"
-			(at 139.7 -40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "release date" "1402480027"
-			(at 139.7 -43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "rohs" "Yes"
-			(at 139.7 -45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "speed grade" "3"
-			(at 139.7 -48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "standoff height" "0.4mm"
-			(at 139.7 -50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "temperature range high" "+100°C"
-			(at 139.7 -53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "temperature range low" "0°C"
-			(at 139.7 -55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "vault revision" "8A58598F-56A5-4DEC-BA3F-FDB4B6026E25"
-			(at 139.7 -58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
