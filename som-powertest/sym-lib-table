@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "eec")(type "Legacy")(uri "${KIPRJMOD}/xc7a200t/eec.lib")(options "")(descr "")(disabled))
+  (lib (name "SIC402")(type "KiCad")(uri "${KIPRJMOD}/../SIC402.kicad_sym")(options "")(descr "")(disabled))
+)

@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/xc7a200t/eec.pretty")(options "")(descr "")(disabled))
+  (lib (name "eec.models")(type "KiCad")(uri "${KIPRJMOD}/xc7a200t/eec.models")(options "")(descr "")(disabled))
+  (lib (name "Mezzanine")(type "KiCad")(uri "${KIPRJMOD}/../Mezzanine.pretty")(options "")(descr ""))
+  (lib (name "RobotMan2412")(type "KiCad")(uri "${KIPRJMOD}/../RobotMan2412.pretty")(options "")(descr ""))
+  (lib (name "SIC402")(type "KiCad")(uri "${KIPRJMOD}/../SIC402.pretty")(options "")(descr ""))
+)
