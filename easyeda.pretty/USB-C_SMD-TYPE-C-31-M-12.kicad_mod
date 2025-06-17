@@ -289,15 +289,15 @@
 		(uuid "db944cc3-badf-4c02-9ec2-ba4e3934ebf0")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/home/julian/the_wires/pixieboard/easyeda.3dshapes/USB-C_SMD-TYPE-C-31-M-12.wrl"
+	(model "../easyeda.3dshapes/USB-C_SMD-TYPE-C-31-M-12.wrl"
 		(offset
-			(xyz 0 -1.14 1)
+			(xyz 0 -2.5 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 180)
+			(xyz -0 -0 180)
 		)
 	)
 )
