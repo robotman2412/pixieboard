@@ -451,7 +451,7 @@
 			(at 3 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "fd02aec3-0ab4-4309-8613-1c6ced98ede9")
+			(uuid "1e26d42b-926a-469a-b8d2-b4364e51d685")
 			(effects
 				(font
 					(size 1 1)
@@ -463,7 +463,7 @@
 			(at 0 6.5 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "1b6e7848-e021-4f0b-a181-dbe415cc0be1")
+			(uuid "510ae13b-0e1b-48ca-9167-d39589e196b1")
 			(effects
 				(font
 					(size 1 1)
@@ -476,7 +476,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7c8935ef-898b-43eb-86a1-ff0768781d43")
+			(uuid "88ff50aa-1826-45ab-a07d-fc6e90ec7ba1")
 			(effects
 				(font
 					(size 1 1)
@@ -489,7 +489,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "338395ac-1b24-49f5-aada-b73340bdd67d")
+			(uuid "35210adf-a9cc-42d5-a54f-c68e7c7738b6")
 			(effects
 				(font
 					(size 1 1)
@@ -1084,13 +1084,13 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "134d22b3-3176-4e2c-ab40-02fae984b82a")
-		(at 162 61.9 180)
+		(at 161.27 55.55 180)
 		(descr "Through hole angled socket strip, 2x06, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated")
 		(tags "Through hole angled socket strip THT 2x06 2.54mm double row")
 		(property "Reference" "J8"
 			(at -5.65 -2.77 0)
 			(layer "F.SilkS")
-			(uuid "3f48b116-9928-4b5a-b195-7d990e39fbe8")
+			(uuid "a0a7a9ca-c9df-4768-8d8b-ab43e8d4ad29")
 			(effects
 				(font
 					(size 1 1)
@@ -1101,7 +1101,7 @@
 		(property "Value" "Conn_02x06_Odd_Even"
 			(at -5.65 15.47 0)
 			(layer "F.Fab")
-			(uuid "bae8432d-97fa-4c50-9d3a-5e3062b87cce")
+			(uuid "848404df-0aec-4412-8c11-cdd1fc91af5f")
 			(effects
 				(font
 					(size 1 1)
@@ -1113,7 +1113,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ad9673b6-fa1f-40c8-ba13-788eb3e00b6e")
+			(uuid "ffabe547-b52a-4a07-b3a9-d0c0d7990a10")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1125,7 +1125,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bcd0a5ba-d389-4e44-b56c-35795b3efcc4")
+			(uuid "ce3028a2-8713-4260-9bf0-bdd327242e6b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2132,7 +2132,7 @@
 			(at 3 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "170963c7-e3f5-4fef-9941-8652c8e0e80c")
+			(uuid "0911d32b-5962-4601-a85f-bf59c086aa34")
 			(effects
 				(font
 					(size 1 1)
@@ -2144,7 +2144,7 @@
 			(at 0 6.5 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "cd575593-785b-4d7d-adb0-db6347be2ba4")
+			(uuid "62c7542c-17cd-4660-a482-d57f320bf8e0")
 			(effects
 				(font
 					(size 1 1)
@@ -2157,7 +2157,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4d9121a9-53f7-49ab-80d6-3a86043fb75b")
+			(uuid "0b3058a9-49b4-46cf-85b2-f855d1e56fc6")
 			(effects
 				(font
 					(size 1 1)
@@ -2170,7 +2170,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "86859935-6061-4c24-b7a3-b5aa30f0e061")
+			(uuid "b1498ebb-04bb-4725-adab-51ffd4c07aff")
 			(effects
 				(font
 					(size 1 1)
@@ -2770,7 +2770,7 @@
 			(at 3 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "58c097e4-611e-4a5f-96b9-2dc4a54de384")
+			(uuid "89f06549-e6ba-4f2e-ab13-1260bb3bf527")
 			(effects
 				(font
 					(size 1 1)
@@ -2782,7 +2782,7 @@
 			(at 0 6.5 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "605cdae4-a1a7-4fde-940c-559c111e847e")
+			(uuid "b011e8e3-dc1f-49f6-afaf-1cd470f33852")
 			(effects
 				(font
 					(size 1 1)
@@ -2795,7 +2795,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9f214cb9-db75-4a8a-aafb-a6b0d5ecf8dc")
+			(uuid "a43da98c-b84f-4d77-b209-853c57c647fe")
 			(effects
 				(font
 					(size 1 1)
@@ -2808,7 +2808,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "48d76546-424c-49a8-8404-2d019790df93")
+			(uuid "94952f5f-9fb1-487b-af2b-f51ae2f148c8")
 			(effects
 				(font
 					(size 1 1)
@@ -3410,7 +3410,7 @@
 			(at 0 -2.85 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "0f842ba1-a15b-49fa-82ab-8fa36347160e")
+			(uuid "01169bf5-8650-43fb-89b6-8bce3ddddacd")
 			(effects
 				(font
 					(size 1 1)
@@ -3422,7 +3422,7 @@
 			(at 0 2.85 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1fb3409c-7810-4003-bb5e-86559c81a38b")
+			(uuid "26510b69-cf6b-4c8a-8199-a1eff489d3c3")
 			(effects
 				(font
 					(size 1 1)
@@ -3434,7 +3434,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b49de9c4-0bfc-4c63-93b3-36dfad5c68d1")
+			(uuid "c1dec208-d450-4a48-8561-9b9053d683e8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3446,7 +3446,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7ba9cb43-320b-420e-8ddf-8898325548ff")
+			(uuid "2f829288-3365-459c-998e-a6c456dd5822")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3506,16 +3506,17 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal"
+	(footprint "MountingHole:MountingHole_4mm_Pad"
 		(layer "F.Cu")
-		(uuid "37f3a982-e851-493d-8864-9ca51f7c2676")
-		(at 162 79.68 180)
-		(descr "Through hole angled socket strip, 2x06, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated")
-		(tags "Through hole angled socket strip THT 2x06 2.54mm double row")
-		(property "Reference" "J9"
-			(at -5.65 -2.77 0)
+		(uuid "32b74442-ca3e-4cf9-9722-13c77acd13e4")
+		(at 169 169)
+		(descr "Mounting Hole 4mm, generated by kicad-footprint-generator mountinghole.py")
+		(tags "mountinghole")
+		(property "Reference" "H7"
+			(at 0 -4.95 0)
 			(layer "F.SilkS")
-			(uuid "dbacc50d-96d6-46de-842b-964877f24f34")
+			(hide yes)
+			(uuid "b3647280-fdec-4177-bdf0-b39dce5a87e7")
 			(effects
 				(font
 					(size 1 1)
@@ -3523,10 +3524,10 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x06_Odd_Even"
-			(at -5.65 15.47 0)
+		(property "Value" "MountingHole_Pad"
+			(at 0 4.95 0)
 			(layer "F.Fab")
-			(uuid "65fb8467-2431-4b58-b45c-68cbccb4db73")
+			(uuid "05ecfaea-bdb9-4423-b953-04723847c3b0")
 			(effects
 				(font
 					(size 1 1)
@@ -3538,7 +3539,111 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9964c288-54a9-41fd-95cc-6b2467d96c2f")
+			(uuid "2f12c974-5bde-46a1-914b-090e17a72234")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b396edcf-dffc-4129-8bba-d55d730046b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "MountingHole*Pad*")
+		(path "/dc241beb-ad7a-4ec4-928d-f53e439c9d0c")
+		(sheetname "/")
+		(sheetfile "carrier-basic.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 4 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill no)
+			(layer "Cmts.User")
+			(uuid "72a7e737-9c9e-428e-9f7e-b299f4d4373d")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 4.25 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "5a99c56b-ba2a-4443-aaf2-8de69906fd0c")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "7172069c-ed0d-42c7-9b5d-bf46695e07ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 8 8)
+			(drill 4)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 1 "GND")
+			(pinfunction "1")
+			(pintype "input")
+			(zone_connect 2)
+			(uuid "c487cb1f-1a32-49a8-9e7c-69c1dffe3392")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal"
+		(layer "F.Cu")
+		(uuid "37f3a982-e851-493d-8864-9ca51f7c2676")
+		(at 161.27 80.95 180)
+		(descr "Through hole angled socket strip, 2x06, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated")
+		(tags "Through hole angled socket strip THT 2x06 2.54mm double row")
+		(property "Reference" "J9"
+			(at -5.65 -2.77 0)
+			(layer "F.SilkS")
+			(uuid "cdf05b6d-6cdc-4070-a287-a9c02da282ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_02x06_Odd_Even"
+			(at -5.65 15.47 0)
+			(layer "F.Fab")
+			(uuid "28ce74ac-65f4-47fa-a031-b04911d5f9da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1517666b-0c4c-46be-b633-2b99b9867670")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3550,7 +3655,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e020933d-4456-4e4f-a93e-ea6d5e32523b")
+			(uuid "d2c55085-58b9-4066-bf77-d04ac32fa3a1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4894,7 +4999,7 @@
 			(at 2.5 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "e42c4735-5cba-417d-9b0b-708e47114e55")
+			(uuid "164fbaae-752c-4fb5-bb0e-a7087eba0620")
 			(effects
 				(font
 					(size 1 1)
@@ -4906,7 +5011,7 @@
 			(at 0 6.5 90)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "a89a770c-c71e-477a-be0a-16248ce87880")
+			(uuid "d2ecb3a3-9512-40e2-81ff-10ddaff95927")
 			(effects
 				(font
 					(size 1 1)
@@ -4919,7 +5024,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "616e214f-a6c9-4c2e-bef6-962802e37343")
+			(uuid "0fc1960f-17c9-4ecb-a6ad-0b578803797c")
 			(effects
 				(font
 					(size 1 1)
@@ -4932,7 +5037,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b7adda8c-23ec-48b3-a632-2b0e4d9f735d")
+			(uuid "2e9a0fe1-d094-440a-8c92-829c71fac4dd")
 			(effects
 				(font
 					(size 1 1)
@@ -5524,17 +5629,17 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
+	(footprint "MountingHole:MountingHole_4mm_Pad"
 		(layer "F.Cu")
-		(uuid "724f9a32-71be-4dc9-b3f4-d84452f33e3c")
-		(at 122.5 122.5)
-		(descr "Mounting Hole 2.2mm, M2, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole M2 DIN965")
-		(property "Reference" "H3"
-			(at 0 -2.85 0)
+		(uuid "683e6b8e-1d4c-4513-9702-1b64eceab407")
+		(at 31 169)
+		(descr "Mounting Hole 4mm, generated by kicad-footprint-generator mountinghole.py")
+		(tags "mountinghole")
+		(property "Reference" "H8"
+			(at 0 -4.95 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "d5ef1722-762a-45c8-a897-26fbf8038c60")
+			(uuid "7e540f4b-fb39-495c-aea8-74ae45329277")
 			(effects
 				(font
 					(size 1 1)
@@ -5543,10 +5648,9 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 0 2.85 0)
+			(at 0 4.95 0)
 			(layer "F.Fab")
-			(hide yes)
-			(uuid "2633fd3f-4b92-4573-99c7-997c540e7a76")
+			(uuid "49133284-f9ce-4b33-82a3-2d9d61aea0b9")
 			(effects
 				(font
 					(size 1 1)
@@ -5558,7 +5662,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2fcc9117-32d6-45a2-a300-1939356e9080")
+			(uuid "2a7174e9-064c-4554-b7db-e696bc844a31")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5570,7 +5674,113 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e895f7d5-8359-4a2d-8814-98869e12f667")
+			(uuid "755ae53b-dd14-41a8-9eb2-0593d3371f20")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "MountingHole*Pad*")
+		(path "/93893bca-f823-45f5-a4d0-94e4bc512737")
+		(sheetname "/")
+		(sheetfile "carrier-basic.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 4 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill no)
+			(layer "Cmts.User")
+			(uuid "301e61fa-b9e8-4aa6-a85c-2be9e9ac0a48")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 4.25 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "a8fe9e3b-103e-45fe-b3a5-091b2fb27a76")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "00a21643-af8e-4401-ac40-1964da88f50a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 8 8)
+			(drill 4)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 1 "GND")
+			(pinfunction "1")
+			(pintype "input")
+			(zone_connect 2)
+			(uuid "369a6840-c712-4633-bde4-ae7928bd1530")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
+		(layer "F.Cu")
+		(uuid "724f9a32-71be-4dc9-b3f4-d84452f33e3c")
+		(at 122.5 122.5)
+		(descr "Mounting Hole 2.2mm, M2, generated by kicad-footprint-generator mountinghole.py")
+		(tags "mountinghole M2 DIN965")
+		(property "Reference" "H3"
+			(at 0 -2.85 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "51d453de-f17e-4601-9e93-7e33fb52c953")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 0 2.85 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "85651792-7ccc-470c-9043-28c038b2b0bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1a38e78-c3d6-4171-a764-89371da42f81")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a9b30a10-52c2-4e10-ad30-7067cf2bf1ad")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5638,7 +5848,7 @@
 			(at -2.5 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "5a1afaf9-db0a-4d0c-bbd1-9d1efb7e9faa")
+			(uuid "5bcda229-3abe-483e-bdb7-ebe400d28bc4")
 			(effects
 				(font
 					(size 1 1)
@@ -5650,7 +5860,7 @@
 			(at 0 6.5 90)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "fe59c6fc-f6b2-4af4-bd40-3b4c53843ae4")
+			(uuid "bcf79504-021a-41b3-8ad8-e70ab0760bc9")
 			(effects
 				(font
 					(size 1 1)
@@ -5663,7 +5873,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5e3376ba-52ea-4298-81b4-4548caa559c3")
+			(uuid "a6c4bdf3-f0b2-4c2e-9762-ccc11cfc342f")
 			(effects
 				(font
 					(size 1 1)
@@ -5676,7 +5886,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "13cf4766-7f8e-4d17-8445-8779b0ea4424")
+			(uuid "4fcaaaa2-120f-4f4c-8569-9836285c2644")
 			(effects
 				(font
 					(size 1 1)
@@ -6278,7 +6488,7 @@
 			(at 0 -2.85 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "45658dfa-bc40-4ce0-be7f-8c163f93faf8")
+			(uuid "ff34ff7f-b8f2-41c0-a8f7-f6571046b5f7")
 			(effects
 				(font
 					(size 1 1)
@@ -6290,7 +6500,7 @@
 			(at 0 2.85 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "595b46da-ff53-42f9-bef5-29f7d65e38af")
+			(uuid "a98ace7c-174e-430a-ab6d-52433b38a68c")
 			(effects
 				(font
 					(size 1 1)
@@ -6302,7 +6512,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "692df3d9-1d71-4a8d-bc48-10cc8f1076a6")
+			(uuid "1bd48dd4-7cb0-47bd-9e58-923dc0d33f9f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6314,7 +6524,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1fa32fcb-2434-4ec4-a170-4c8e187442fe")
+			(uuid "1f7d44f4-38fb-45b8-9e90-043547b35810")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6377,13 +6587,13 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a8945387-8b82-4420-adc1-43f8ac55c90c")
-		(at 162 115.24 180)
+		(at 161.27 131.75 180)
 		(descr "Through hole angled socket strip, 2x06, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated")
 		(tags "Through hole angled socket strip THT 2x06 2.54mm double row")
 		(property "Reference" "J11"
 			(at -5.65 -2.77 0)
 			(layer "F.SilkS")
-			(uuid "10a6a8a4-91a8-47da-85fc-8556a4e7be85")
+			(uuid "8c7636ec-591d-4c3a-a3ef-8cf0ee941b1a")
 			(effects
 				(font
 					(size 1 1)
@@ -6394,7 +6604,7 @@
 		(property "Value" "Conn_02x06_Odd_Even"
 			(at -5.65 15.47 0)
 			(layer "F.Fab")
-			(uuid "aed8298d-f0fc-40d5-94b9-87d937fa8d6c")
+			(uuid "c7d5608a-514b-4a08-a97a-618e81c7e926")
 			(effects
 				(font
 					(size 1 1)
@@ -6406,7 +6616,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5027d8b7-6e0e-40aa-a481-be71a933a737")
+			(uuid "74c15e2b-c5e1-47d0-8a24-8156f8cf2738")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6418,7 +6628,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e9ef3d87-a3c4-4be4-8847-79f2da5f9b2b")
+			(uuid "d75e17f4-a650-4461-bc0a-cca3a18b824a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7614,7 +7824,7 @@
 			(net 302 "Net-(USBC1-SH)")
 			(pinfunction "SH")
 			(pintype "unspecified")
-			(uuid "6682167f-79c3-45e1-9c7c-13d8d5dc1184")
+			(uuid "c4dee2f6-2c2e-4d31-afa7-cb03de89d7c8")
 		)
 		(pad "0" thru_hole oval
 			(at 4.33 -1.71 180)
@@ -7625,7 +7835,7 @@
 			(net 302 "Net-(USBC1-SH)")
 			(pinfunction "SH")
 			(pintype "unspecified")
-			(uuid "6682167f-79c3-45e1-9c7c-13d8d5dc1184")
+			(uuid "e2492fa6-ae7a-4201-bdf8-9c9f0c8f1d23")
 		)
 		(pad "0" thru_hole oval
 			(at 4.33 2.47 180)
@@ -7636,7 +7846,7 @@
 			(net 302 "Net-(USBC1-SH)")
 			(pinfunction "SH")
 			(pintype "unspecified")
-			(uuid "6682167f-79c3-45e1-9c7c-13d8d5dc1184")
+			(uuid "f3caca29-7f15-4fea-866e-26eeb94f21cd")
 		)
 		(pad "A1" smd rect
 			(at -3.35 -2.47 180)
@@ -7798,7 +8008,7 @@
 	(footprint "easyeda:DSUB-TH_15P-P2.29-H-F_DDMRH15PFE006"
 		(layer "F.Cu")
 		(uuid "c315f884-fae4-42be-ae8c-6ac6fc228dfb")
-		(at 136.49 36.94 180)
+		(at 138 42.94 180)
 		(property "Reference" "DSub1"
 			(at 0 -6.54 0)
 			(layer "F.SilkS")
@@ -8379,15 +8589,17 @@
 			)
 		)
 	)
-	(footprint "RobotMan2412:RobotMan2412_20mm"
+	(footprint "MountingHole:MountingHole_4mm_Pad"
 		(layer "F.Cu")
-		(uuid "d15113a7-f91a-4c77-b6d2-23b313fd9f5c")
-		(at 100 100)
-		(property "Reference" "REF**"
-			(at 0 -0.5 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "e2d4fa78-1678-450c-be12-734e74cd85a3")
+		(uuid "cf17515a-fd91-4ccf-b480-8783ca28033b")
+		(at 31 31)
+		(descr "Mounting Hole 4mm, generated by kicad-footprint-generator mountinghole.py")
+		(tags "mountinghole")
+		(property "Reference" "H6"
+			(at 0 -4.95 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9f3a7e61-cb06-4c07-aa41-0a1e8f7a339a")
 			(effects
 				(font
 					(size 1 1)
@@ -8395,11 +8607,10 @@
 				)
 			)
 		)
-		(property "Value" "RobotMan2412_20mm"
-			(at 0 1 0)
-			(unlocked yes)
+		(property "Value" "MountingHole_Pad"
+			(at 0 4.95 0)
 			(layer "F.Fab")
-			(uuid "39dbe553-76b9-48f0-9320-c857fc3ee0a9")
+			(uuid "118c8fab-7614-4b49-b86b-fe65ae927d1c")
 			(effects
 				(font
 					(size 1 1)
@@ -8411,7 +8622,111 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40c60fc9-aa35-4744-9166-ddadc2b9b8a3")
+			(uuid "a036b81a-b9f6-4e66-a3e9-430418b5008b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5421a84c-44e1-42d6-9ebd-5e37e4aa7818")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "MountingHole*Pad*")
+		(path "/f723b243-afb8-4cd6-ad14-769de1c312cd")
+		(sheetname "/")
+		(sheetfile "carrier-basic.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 4 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill no)
+			(layer "Cmts.User")
+			(uuid "95dc1a57-9658-4184-a9ec-9458ce169eb4")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 4.25 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "75007b01-198c-4aef-8ed7-03dc5d1d130b")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "ae622dbb-406a-4547-ad71-db4477f469e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 8 8)
+			(drill 4)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 1 "GND")
+			(pinfunction "1")
+			(pintype "input")
+			(zone_connect 2)
+			(uuid "805e4f57-958d-43a9-b661-159a6fc734b7")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "RobotMan2412:RobotMan2412_20mm"
+		(layer "F.Cu")
+		(uuid "d15113a7-f91a-4c77-b6d2-23b313fd9f5c")
+		(at 100 100)
+		(property "Reference" "REF**"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "ce53d25c-3de6-42f2-835a-4b67e02e2de1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "RobotMan2412_20mm"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "ed11b993-86b9-4074-800a-fe36d914eef5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d23305d1-25c2-44a3-8f98-355b9de1f242")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8423,7 +8738,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c38a923e-68b9-4871-97e8-fd5cdcb08a2b")
+			(uuid "9062f10d-3112-45fb-aa51-d00bf699066e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9913,13 +10228,13 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "e8d84d6d-8b1a-4462-a534-b14956b03e18")
-		(at 162 133.02 180)
+		(at 161.27 157.15 180)
 		(descr "Through hole angled socket strip, 2x06, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated")
 		(tags "Through hole angled socket strip THT 2x06 2.54mm double row")
 		(property "Reference" "J12"
 			(at -5.65 -2.77 0)
 			(layer "F.SilkS")
-			(uuid "8881c2a5-d56f-4fca-976f-c1e0a880ab97")
+			(uuid "189d7c41-4bfa-4589-ad3c-647fe7d42262")
 			(effects
 				(font
 					(size 1 1)
@@ -9930,7 +10245,7 @@
 		(property "Value" "Conn_02x06_Odd_Even"
 			(at -5.65 15.47 0)
 			(layer "F.Fab")
-			(uuid "117d5289-d146-4414-b03e-7ea2bc44bfaa")
+			(uuid "cbcd96b5-b672-416a-9f71-4a0db1993754")
 			(effects
 				(font
 					(size 1 1)
@@ -9942,7 +10257,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f40667c9-1a05-48e0-9e25-5e95087aa15c")
+			(uuid "fbe318ac-51a4-4103-a2e1-78d46d248549")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9954,7 +10269,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "390d2c22-4a9e-4fbe-b928-88a126eb7029")
+			(uuid "330a0359-fc25-4af4-881b-9648acf5c5d1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10956,13 +11271,13 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ea3646e2-3607-4c5b-8354-eeea1b9598c2")
-		(at 162 97.46 180)
+		(at 161.27 106.35 180)
 		(descr "Through hole angled socket strip, 2x06, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated")
 		(tags "Through hole angled socket strip THT 2x06 2.54mm double row")
 		(property "Reference" "J10"
 			(at -5.65 -2.77 0)
 			(layer "F.SilkS")
-			(uuid "357ec4fe-c077-4885-8f87-7ec520210fd4")
+			(uuid "cccd72c6-0900-4f25-a563-2434782881ca")
 			(effects
 				(font
 					(size 1 1)
@@ -10973,7 +11288,7 @@
 		(property "Value" "Conn_02x06_Odd_Even"
 			(at -5.65 15.47 0)
 			(layer "F.Fab")
-			(uuid "0de304f8-6631-4463-a952-7badc1acb8f5")
+			(uuid "df2599a6-7ec1-41b6-b2eb-470107d288dd")
 			(effects
 				(font
 					(size 1 1)
@@ -10985,7 +11300,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dd798424-fc80-45bc-93a2-614ae74b3a3e")
+			(uuid "066ade5e-adeb-4961-9f62-fe7bbdc8873b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10997,7 +11312,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bf44ff7e-e54a-4963-9510-cf96e47af63c")
+			(uuid "f13df3bf-9cf5-4d51-8e88-8eed271ddbf5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12006,7 +12321,7 @@
 			(at 0 -2.85 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "46988883-b2ca-4673-8832-b75dace678ee")
+			(uuid "dcbff9dc-89c7-4e29-aaa2-ef53b99bb3c0")
 			(effects
 				(font
 					(size 1 1)
@@ -12018,7 +12333,7 @@
 			(at 0 2.85 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0c6cfe7c-b776-49cb-ac97-29f3ba920f4b")
+			(uuid "897e7fd1-2b78-4f12-9db3-c2b0ba69b54d")
 			(effects
 				(font
 					(size 1 1)
@@ -12030,7 +12345,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f22c0b6f-91f9-4a08-b708-56dbc0c30365")
+			(uuid "ee46b475-3a71-4885-b615-847d945483b2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12042,7 +12357,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ab75c56c-7eff-4a41-91c9-8483162fc06d")
+			(uuid "31ba2716-008b-4b15-906b-4502dc5974e5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12110,7 +12425,7 @@
 			(at -2.5 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "490b7831-d3df-41e2-a745-ca5d2ac87ed9")
+			(uuid "c4321d2b-8e82-49ba-aaf6-2acddd3a8fcb")
 			(effects
 				(font
 					(size 1 1)
@@ -12122,7 +12437,7 @@
 			(at 0 6.5 90)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "2269667a-676d-4318-a3fe-5ef936d97cdb")
+			(uuid "dc5c9114-0765-45b3-9537-700b266acbff")
 			(effects
 				(font
 					(size 1 1)
@@ -12135,7 +12450,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "81a3a8b9-1dda-4f9b-b5ce-e1c88cd9df4d")
+			(uuid "4bf11065-329a-400e-9aa6-2c00e0e64838")
 			(effects
 				(font
 					(size 1 1)
@@ -12148,7 +12463,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "92771583-58ba-4723-82bc-1b82868ef11c")
+			(uuid "31e2c9fc-b193-4bb2-a1d9-441ab2031269")
 			(effects
 				(font
 					(size 1 1)
@@ -12748,7 +13063,7 @@
 			(at 2.5 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "f78c4b52-edd6-4981-b18f-cc2ef8112a6d")
+			(uuid "f6ae90bd-ae7d-4efd-92aa-1914f877de83")
 			(effects
 				(font
 					(size 1 1)
@@ -12760,7 +13075,7 @@
 			(at 0 6.5 90)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "473a37d5-231c-43c5-b52e-7f276bf076b2")
+			(uuid "039a1ec2-7c37-4ad8-9680-737c58ffacd6")
 			(effects
 				(font
 					(size 1 1)
@@ -12773,7 +13088,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8de30a02-17f4-40dc-9c96-f35348bea5ab")
+			(uuid "5acbb81b-a8cc-41e9-abe2-26d305213179")
 			(effects
 				(font
 					(size 1 1)
@@ -12786,7 +13101,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b430e79c-3e08-4e58-b241-06d19d656650")
+			(uuid "e1a6cdd0-aada-4ab9-bbd7-bf4c62e3f073")
 			(effects
 				(font
 					(size 1 1)
@@ -13381,13 +13696,13 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "fbd7a444-b4fd-4c46-82e2-254bbf11ae3c")
-		(at 162 150.8 180)
+		(at -91.44 134.62 180)
 		(descr "Through hole angled socket strip, 2x06, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated")
 		(tags "Through hole angled socket strip THT 2x06 2.54mm double row")
 		(property "Reference" "J13"
 			(at -5.65 -2.77 0)
 			(layer "F.SilkS")
-			(uuid "d5eb1124-e37b-487f-b818-98c59ef3dbed")
+			(uuid "0d9e7bcf-4348-44d2-9471-3e9f2e563766")
 			(effects
 				(font
 					(size 1 1)
@@ -13398,7 +13713,7 @@
 		(property "Value" "Conn_02x06_Odd_Even"
 			(at -5.65 15.47 0)
 			(layer "F.Fab")
-			(uuid "af646e74-3b03-47a6-a22a-640a793f7fc1")
+			(uuid "93b7269b-2742-4624-98ae-5e9a4152a55a")
 			(effects
 				(font
 					(size 1 1)
@@ -13410,7 +13725,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "927f939d-57e0-48ba-9c7b-9f332550b66e")
+			(uuid "839d52fd-9c3c-4a30-96db-7030cc8490b3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13422,7 +13737,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0c557695-1879-45c3-a88a-21e5f4526949")
+			(uuid "d1da2bec-03a1-4c49-abb5-693315c74ff0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14421,6 +14736,111 @@
 			)
 		)
 	)
+	(footprint "MountingHole:MountingHole_4mm_Pad"
+		(layer "F.Cu")
+		(uuid "ffc76144-0f08-40a2-ac61-d24bab6bd410")
+		(at 169 31)
+		(descr "Mounting Hole 4mm, generated by kicad-footprint-generator mountinghole.py")
+		(tags "mountinghole")
+		(property "Reference" "H5"
+			(at 0 -4.95 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "4f45d6a7-4b84-45b6-8fd8-064c56f27ff2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 0 4.95 0)
+			(layer "F.Fab")
+			(uuid "4c356afd-85a8-4bde-8ec3-77a7e0546ae0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff8784de-ac59-49c2-aeec-c6de612641a0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8b78b7f-c522-4b90-a70a-2f637eb43c99")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "MountingHole*Pad*")
+		(path "/1ea6d728-33ba-49ac-a10a-cf6c3832b147")
+		(sheetname "/")
+		(sheetfile "carrier-basic.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 4 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill no)
+			(layer "Cmts.User")
+			(uuid "a66a7c44-371c-4239-99cf-4988711b5148")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 4.25 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "c8ad0554-187d-44a2-a52b-9af334916297")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "6508c9f5-6699-4d20-82cf-8986b1ed6dc6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 8 8)
+			(drill 4)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 1 "GND")
+			(pinfunction "1")
+			(pintype "input")
+			(zone_connect 2)
+			(uuid "c64576d1-52cf-4c9d-a5fc-e8b6f91d58ee")
+		)
+		(embedded_fonts no)
+	)
 	(gr_line
 		(start 77.5 75)
 		(end 122.5 75)
@@ -14516,16 +14936,89 @@
 		(layer "Dwgs.User")
 		(uuid "d7c82af9-96c1-4e5c-9ad7-758f43671338")
 	)
-	(gr_rect
-		(start 25 25)
-		(end 175 175)
+	(gr_line
+		(start 25 31)
+		(end 25 169)
 		(stroke
 			(width 0.05)
-			(type solid)
+			(type default)
 		)
-		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "0fe79b67-a692-4245-86f8-1ad7405dc0fd")
+		(uuid "18806945-1016-4a0b-9541-8054bf32af92")
+	)
+	(gr_arc
+		(start 31 175)
+		(mid 26.757359 173.242641)
+		(end 25 169)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "43284a0a-88f6-4c49-8760-e7a3402072f9")
+	)
+	(gr_arc
+		(start 25 31)
+		(mid 26.757359 26.757359)
+		(end 31 25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "941850a2-b262-4009-ace5-426002397336")
+	)
+	(gr_line
+		(start 169 25)
+		(end 31 25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9598b366-d723-4cb0-8888-114a4f11fced")
+	)
+	(gr_line
+		(start 175 169)
+		(end 175 31)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b56778d8-702e-4537-9569-b28009148609")
+	)
+	(gr_arc
+		(start 175 169)
+		(mid 173.242641 173.242641)
+		(end 169 175)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b8cd886e-d8dc-4c5c-8837-c913b1085b77")
+	)
+	(gr_arc
+		(start 169 25)
+		(mid 173.242641 26.757359)
+		(end 175 31)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "cb4f4d51-d1c3-4831-b124-175fd55d4fe6")
+	)
+	(gr_line
+		(start 31 175)
+		(end 169 175)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "fac51ed5-a8dd-4a1d-b62a-783fc61f5017")
 	)
 	(dimension
 		(type aligned)
@@ -15327,14 +15820,6 @@
 				)
 			)
 		)
-	)
-	(segment
-		(start 162 84.76)
-		(end 162 82.72)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 224)
-		(uuid "e8b6f222-7d58-462e-bc80-3ee9e0bfb248")
 	)
 	(embedded_fonts no)
 )
